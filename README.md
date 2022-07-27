@@ -13,4 +13,5 @@ I am a Frontend Developer who mainly works with ReactJS. I love building practic
 * ![icons8-sass-48](https://user-images.githubusercontent.com/90692293/181203203-42d7842d-4372-4f7a-b911-6c7e059663ee.png)  
     Sass
 ## Contact Me 
-[Twitter](https://www.twitter.com/Nathan_Asowata) [LinkedIn](https://www.linkedin.com/NathanAsowata)
+* [Twitter](https://www.twitter.com/Nathan_Asowata)  
+* [LinkedIn](https://www.linkedin.com/NathanAsowata)
