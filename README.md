@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Nathan! ![icons8-react-40](https://user-images.githubusercontent.com/90692293/181200101-3500b9fb-6997-4d85-a1f8-494442c6b685.png)
-<img src="https://user-images.githubusercontent.com/90692293/181200101-3500b9fb-6997-4d85-a1f8-494442c6b685.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/90692293/181200101-3500b9fb-6997-4d85-a1f8-494442c6b685.png" width="20" height="20">
 
 I am a Frontend Developer who mainly works with ReactJS. I love building practical, test driven web applications. My work entails converting UI designs into code and working with data from REST APIs.
 
