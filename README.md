@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Nathan! ![icons8-react-40](https://user-images.githubusercontent.com/90692293/181200101-3500b9fb-6997-4d85-a1f8-494442c6b685.png)
 
 
-I am a Frontend Developer who mainly works with ReactJS. I love building practical, test driven web applications. My work entails converting UI designs into code and working with data from REST APIs.
+I am a web developer with a working proficiency in HTML, CSS, JavaScript, React and Typescript. My work environment consists of Linux Ubuntu, Visual Studio Code and Linux terminal. My goal is to continuously grow as a developer while staying current with the latest trends and technologies. I would love to work for a team that is truly passionate about what they create and that is striving to consistently move forward.
 
 ## My Current Tech Stack
 * ![icons8-react-40](https://user-images.githubusercontent.com/90692293/181200101-3500b9fb-6997-4d85-a1f8-494442c6b685.png)  
