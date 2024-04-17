@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm Nathan,
+### Hi, I'm Nathan,
 
 Front End Developer with 2+ years of experience in building client-side applications with React, Typescript, and NextJS. Checkout my latest side project [Movies](https://movies.nathanasowata.com/) built using NextJS and TypeScript.
 
